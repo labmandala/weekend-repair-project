@@ -21,3 +21,5 @@
 * Looping through arrays 
 
 <p>JavaScript program has main object with several objects to loop over, logging them out to the console.</p>
+
+<img src="weekend-repair.jpg"/>
